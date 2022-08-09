@@ -5,7 +5,7 @@ const Header = () => {
     <div className="header-container">
       <header>
         <div className="left">
-          <p className="title">🐱‍👤 Cool Name Service</p>
+          <p className="title">🐱‍👤 Ultra Cool Name Service</p>
           {/* <p className="subtitle">Your immortal API on the blockchain!</p> */}
         </div>
       </header>
